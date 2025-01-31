@@ -33,7 +33,7 @@ Este projeto foi desenvolvido como parte de um **estudo de caso** na **faculdade
 
 ---
 
-## 🗂️ Estrutura do Projeto
+## 🗂️ Estrutura do Projeto (Back-End)
 
 A estrutura do projeto é organizada da seguinte maneira:
 
@@ -62,6 +62,17 @@ Sistema-Automotivo/
  │    └── target/                 # Diretório gerado durante a construção do projeto
  ├── .gitignore                  # Arquivos e pastas ignorados pelo Git
  ├── pom.xml                     # Arquivo de configuração do Maven
+```
+
+## 🗂️ Estrutura do Projeto (Front-End)
+
+```plaintext
+FRONT-SISTEMA-AUTOMOTIVO/                
+ ├── css/
+ │    ├── styles.css/
+ ├── js/
+ │    ├── script.js/
+ ├── index.html/
 ```
 
 ## 📊 Estrutura Do Banco de Dados
