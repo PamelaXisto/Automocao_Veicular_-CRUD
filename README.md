@@ -6,12 +6,20 @@ Este projeto foi desenvolvido como parte de um **estudo de caso** na **faculdade
 
 ## 🛠️ Tecnologias Usadas
 
+- **INTELLIJ IDEA**
 - **Java 8+**: Linguagem de programação principal do projeto.
 - **Spring Boot**: Framework utilizado para facilitar o desenvolvimento do back-end.
 - **Spring Data JPA**: Para persistência de dados no banco de dados.
 - **MySQL**: Banco de dados relacional utilizado para armazenar as informações dos veículos.
 - **Maven**: Gerenciador de dependências.
 - **Thymeleaf**: Template engine para o front-end (se aplicável).
+
+- **VSCODE**
+- **script.js**
+- **HTML5**
+- **CSS**
+  
+
 
 ---
 
