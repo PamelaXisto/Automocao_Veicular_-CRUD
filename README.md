@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como parte de um **estudo de caso** na **faculdade
 
 ## 🛠️ Tecnologias Usadas
 
-**INTELLIJ IDEA**
+**INTELLIJ IDEA(back-end)**
 - **Java 8+**: Linguagem de programação principal do projeto.
 - **Spring Boot**: Framework utilizado para facilitar o desenvolvimento do back-end.
 - **Spring Data JPA**: Para persistência de dados no banco de dados.
@@ -14,7 +14,7 @@ Este projeto foi desenvolvido como parte de um **estudo de caso** na **faculdade
 - **Maven**: Gerenciador de dependências.
 - **Thymeleaf**: Template engine para o front-end (se aplicável).
 
-**VSCODE**
+**VSCODE (front-end)**
 - **script.js**
 - **HTML5**
 - **CSS**
